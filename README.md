@@ -14,7 +14,9 @@ touch ~/.tmux.config
 ### Configuration
 
 #### restart your tmux server:
-``` tmux kill-server && tmux ```
+``` 
+tmux kill-server && tmux 
+```
 
 #### Change statusbar colors
 ```
