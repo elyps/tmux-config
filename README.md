@@ -1,5 +1,15 @@
 # tmux-config
-Tmux configuration files
+Tmux configuration
+
+### Install tmux on mac m1
+```
+brew install tmux
+```
+
+#### Create .tmux.config
+```
+touch ~/.tmux.config
+```
 
 ### Configuration
 
